@@ -7,8 +7,33 @@
    viewBox="0 0 88.275862 72.413793"
    version="1.1"
    id="svg1"
+   sodipodi:docname="sf_logo.svg"
+   inkscape:export-filename="icon.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.0292104"
+     inkscape:cx="268.16674"
+     inkscape:cy="117.56585"
+     inkscape:window-width="1892"
+     inkscape:window-height="1026"
+     inkscape:window-x="52"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <mask
@@ -59,8 +84,9 @@
          transform="translate(-10.249996,7.4166682)" />
       <path
          style="fill:#89da24;fill-opacity:1;stroke:#89da24;stroke-width:9.26042;stroke-dasharray:none;stroke-opacity:1"
-         d="m 48.394525,21.361867 c 0,0 -14.825691,3.47598 -20.445791,7.82782 -5.62011,4.35185 1.07692,4.88562 7.24364,6.19215 3.8093,0.80707 11.566481,1.63567 11.566481,1.63567"
-         id="path1-3-0-7-2-5" />
+         d="m 48.394525,21.361867 c 0,0 -14.825691,3.47598 -20.445791,7.82782 -5.62011,4.35185 1.07692,4.88562 7.24364,6.19215 3.8093,0.80707 15.670732,-1.882259 15.670732,-1.882259"
+         id="path1-3-0-7-2-5"
+         sodipodi:nodetypes="cssc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#43ab12;stroke-width:7.9375;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 53.768628,83.697542 c 1.831067,-6.833636 10.028901,-38.939934 12.323537,-47.503634 2.799115,-10.44644 3.499785,-20.4271 12.560167,-22.550369 5.432857,-1.273171 6.147765,4.575186 5.113486,8.788742 -1.81372,7.388928 -9.471906,12.793919 -28.356568,20.195547"
